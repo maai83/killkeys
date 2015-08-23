@@ -1,5 +1,4 @@
 #summary A more in-depth introduction
-#labels Featured
 
 = Introduction =
 KillKeys exist so that you can play games without having to worry about accidentally pressing the windows key. The keys essentially becomes dead keys.
